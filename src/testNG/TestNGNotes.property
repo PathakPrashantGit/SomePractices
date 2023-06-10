@@ -1,0 +1,7 @@
+1) TestNG is testing frameWork for the Java Language
+2) NG stand for next generation
+3)TestNG is design to make end-to-end testing easy and it is achieved this by providing a number of useful features
+4) This is provide @annotation like @Test annotation to set a code block to be a test cases
+5) Another example is reporting and how testNG is easily shows us how many test cases pass or fail or skipped
+6) provide assertions that are useful to test behaviour and values
+7) Ability to priorities Our Test 
